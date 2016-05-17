@@ -6,3 +6,13 @@ body {
 	font-family: "Courier New", sans-serif;
 	font-size: 16px;
 }
+
+.sidebar {
+	height: 100%;
+	width: 100px;
+	background-color: lightblue;
+}
+
+.header {
+
+}
