@@ -10,6 +10,7 @@ body {
 .sidebar {
 	height: 100%;
 	width: 100px;
+	float:left;
 	background-color: lightblue;
 }
 
