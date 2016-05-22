@@ -1129,6 +1129,9 @@ img {
   display: inline-block;
   float: left;
 }
+.img-logo {
+  vertical-align: middle;
+}
 .img-rounded {
   border-radius: 6px;
 }
