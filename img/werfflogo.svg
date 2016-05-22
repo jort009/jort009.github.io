@@ -14,7 +14,7 @@
    id="svg2993"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 3">
+   sodipodi:docname="werfflogo.svg">
   <defs
      id="defs2995" />
   <sodipodi:namedview
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,10 +112,11 @@
          sodipodi:role="line"
          id="tspan3088"
          x="3.7487898"
-         y="21.108643">Wer<tspan
-   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+         y="21.108643"
+         style="fill:#ffffff">Wer<tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic;fill:#ffffff"
    id="tspan3090">ff</tspan><tspan
-   style="font-size:4.95341587px"
+   style="font-size:4.95341586999999972px;fill:#ffffff"
    id="tspan3092">ospitality</tspan></tspan></text>
   </g>
 </svg>
