@@ -2,11 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48px"
@@ -16,7 +18,62 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="werfflogo.svg">
   <defs
-     id="defs2995" />
+     id="defs2995">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3848">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3850" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3852" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3842"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3844" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3836"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3838" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3826"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3828" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3826"
+       id="linearGradient3830"
+       x1="3.9680816"
+       y1="19.114861"
+       x2="44.034796"
+       y2="19.114861"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3848"
+       id="linearGradient3858"
+       x1="-1.0319184"
+       y1="19.114861"
+       x2="49.034798"
+       y2="19.114861"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,17 +82,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="23.537723"
+     inkscape:cy="12.571429"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1018"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata2998">
     <rdf:RDF>
@@ -103,7 +160,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:6.60455418px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:6.60455418000000005px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;font-family:Sans;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1"
        x="3.7487898"
        y="21.108643"
        id="text3086"
@@ -113,10 +170,10 @@
          id="tspan3088"
          x="3.7487898"
          y="21.108643"
-         style="fill:#ffffff">Wer<tspan
-   style="font-style:italic;-inkscape-font-specification:Sans Italic;fill:#ffffff"
+         style="fill:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;stroke:#000000;stroke-opacity:1">Wer<tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic;fill:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
    id="tspan3090">ff</tspan><tspan
-   style="font-size:4.95341586999999972px;fill:#ffffff"
+   style="font-size:4.95341586999999972px;fill:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
    id="tspan3092">ospitality</tspan></tspan></text>
   </g>
 </svg>
