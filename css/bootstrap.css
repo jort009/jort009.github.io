@@ -1622,6 +1622,11 @@ pre code {
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
 }
+
+.col-md-6 {
+  left: 50%;
+}
+
 .col-xs-12 {
   width: 100%;
 }
@@ -1631,9 +1636,7 @@ pre code {
 .col-xs-10 {
   width: 83.33333333%;
 }
-.col-md-6 .logo {
-  vertical-align: middle;
-}
+
 .col-xs-9 {
   width: 75%;
 }
@@ -1959,6 +1962,7 @@ pre code {
     width: 58.33333333%;
   }
   .col-md-6 {
+    position: absolute;
     width: 50%;
   }
   .col-md-5 {
