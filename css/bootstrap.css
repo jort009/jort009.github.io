@@ -1631,6 +1631,9 @@ pre code {
 .col-xs-10 {
   width: 83.33333333%;
 }
+.col-md-6 .logo {
+  vertical-align: middle;
+}
 .col-xs-9 {
   width: 75%;
 }
